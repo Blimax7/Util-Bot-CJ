@@ -1,0 +1,8 @@
+flask
+requests
+flask-session
+mistralai
+python-dotenv
+gunicorn
+
+
